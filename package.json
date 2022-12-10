@@ -32,7 +32,7 @@
     "@types/xmldom": "^0.1.29",
     "danger": "^8.0.0",
     "danger-plugin-digitalcitizenship": "*",
-    "express": "4.17.0",
+    "express": "4.17.3",
     "italia-tslint-rules": "*",
     "jest": "^24.8.0",
     "nock": "^11.7.1",
